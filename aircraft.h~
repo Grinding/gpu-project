@@ -1,0 +1,7 @@
+Struct aircraft
+{
+  int row;
+  int col;
+  int num_passengers;
+  int num_groups;
+};
